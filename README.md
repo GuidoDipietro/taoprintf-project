@@ -10,5 +10,5 @@ Inspired on the [IOCCC](https://www.ioccc.org/), from the World, to you.
 Credits to [GuyClicking](https://github.com/GuyClicking) for starting it, [crisszkutnik](https://github.com/crisszkutnik) for his contribution, and [tao-yu](https://github.com/tao-yu) for having a name.
 
 ```bash
-touch a.c && echo 'main(){puts("taoyu!!");}' > a.c && gcc a.c -w && ./a.out && rm a.*
+touch a.c && echo 'main(){puts("taoyu!!");}' > a.c && gcc a.c -w && ./a.out && rm a.* 
 ```
