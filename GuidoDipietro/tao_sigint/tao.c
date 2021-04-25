@@ -1,0 +1,1 @@
+s(s){s!=2?:puts("taoyu\n");}main(){signal(2,s);for(;;);}
